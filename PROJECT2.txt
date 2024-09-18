@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I HATE Portia's homework!
+=======
+I HATE portia's homework!
+>>>>>>> branch-KevinBuie-2
